@@ -1,0 +1,93 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#bkg img{
+    /* background-image: url(./img/beach palm swing7604_square.jpg); */
+
+    height: 500px;
+    width: 1365px;
+}
+.nav{
+    /* text-align: right;
+    display: inline; */
+    background-color: blue;
+    color: black;
+    /* margin-left: 1000px;
+    text-align: right; */
+
+}
+
+.nav ul{
+    list-style: none;
+    display: inline-block;
+    margin: 9px;
+}
+
+.nav li {
+    display: inline-block;
+    text-align: right;
+    margin:   12px;
+}
+
+.btn {
+    background-color: royalblue\;
+    color: black;
+    width: 150px;
+     margin-left: 600px;
+}
+ 
+button{
+}
+
+.btn:hover{
+    background-color: blue;
+    /*width: 400px; */
+}
+
+#keysoft {
+   text-align: center;
+   color: blue;
+}
+
+.test{
+    color: blue;
+}
+
+.para{
+    color: blue;
+}
+
+#bold{
+    color: blue;
+}
+
+.bvk{
+    background-color: yellow;
+}
+
+.log{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+}
+
+.pic{
+    background-color: yellow;
+    width: 120px;
+}
+
+#log{
+    text-align: center;
+    background-color: red;
+    height: 450px;
+    color: white;
+}
+
+.tech{
+    text-align: center;
+    color: blue;
+    margin: 600px;
+}
