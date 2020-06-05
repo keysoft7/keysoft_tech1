@@ -91,3 +91,10 @@ button{
     color: blue;
     margin: 600px;
 }
+
+.acc {
+    text-align: center;
+   background-color: blue;
+   color: white;
+   height: 600;
+}
